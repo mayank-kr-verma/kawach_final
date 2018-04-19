@@ -1,0 +1,3258 @@
+[
+  {
+    "District": "Anantapur",
+    "Crimes": 952
+  },
+  {
+    "District": "Chittoor",
+    "Crimes": 366
+  },
+  {
+    "District": "Cuddapah",
+    "Crimes": 690
+  },
+  {
+    "District": "East Godavari",
+    "Crimes": 1438
+  },
+  {
+    "District": "Guntakal Railway",
+    "Crimes": 1
+  },
+  {
+    "District": "Guntur",
+    "Crimes": 1325
+  },
+  {
+    "District": "Guntur Urban",
+    "Crimes": 874
+  },
+  {
+    "District": "Krishna",
+    "Crimes": 1387
+  },
+  {
+    "District": "Kurnool",
+    "Crimes": 1719
+  },
+  {
+    "District": "Nellore",
+    "Crimes": 1063
+  },
+  {
+    "District": "Prakasham",
+    "Crimes": 906
+  },
+  {
+    "District": "Rajahmundry",
+    "Crimes": 435
+  },
+  {
+    "District": "Srikakulam",
+    "Crimes": 460
+  },
+  {
+    "District": "Tirupathi Urban",
+    "Crimes": 228
+  },
+  {
+    "District": "Vijayawada City",
+    "Crimes": 641
+  },
+  {
+    "District": "Vijayawada Railway",
+    "Crimes": 22
+  },
+  {
+    "District": "Visakha Rural",
+    "Crimes": 343
+  },
+  {
+    "District": "Visakhapatnam",
+    "Crimes": 902
+  },
+  {
+    "District": "Vizianagaram",
+    "Crimes": 625
+  },
+  {
+    "District": "West Godavari",
+    "Crimes": 1554
+  },
+  {
+    "District": "Anjaw",
+    "Crimes": 0
+  },
+  {
+    "District": "Changlang",
+    "Crimes": 21
+  },
+  {
+    "District": "Crime Branch",
+    "Crimes": 1
+  },
+  {
+    "District": "Dibang Valley",
+    "Crimes": 1
+  },
+  {
+    "District": "Kameng East",
+    "Crimes": 12
+  },
+  {
+    "District": "Kameng West",
+    "Crimes": 10
+  },
+  {
+    "District": "Kurung Kumey",
+    "Crimes": 5
+  },
+  {
+    "District": "Lohit",
+    "Crimes": 43
+  },
+  {
+    "District": "Longding",
+    "Crimes": 0
+  },
+  {
+    "District": "Lower Dibang Valley",
+    "Crimes": 11
+  },
+  {
+    "District": "Papum Pare City",
+    "Crimes": 137
+  },
+  {
+    "District": "Papum Pare Rural",
+    "Crimes": 6
+  },
+  {
+    "District": "Siang East",
+    "Crimes": 47
+  },
+  {
+    "District": "Siang Upper",
+    "Crimes": 7
+  },
+  {
+    "District": "Siang West",
+    "Crimes": 29
+  },
+  {
+    "District": "Subansiri Lower",
+    "Crimes": 11
+  },
+  {
+    "District": "Subansiri Upper",
+    "Crimes": 26
+  },
+  {
+    "District": "Tawang",
+    "Crimes": 2
+  },
+  {
+    "District": "Tirap",
+    "Crimes": 10
+  },
+  {
+    "District": "Siang",
+    "Crimes": 5
+  },
+  {
+    "District": "B. I. E. O.",
+    "Crimes": 0
+  },
+  {
+    "District": "Barpeta",
+    "Crimes": 2682
+  },
+  {
+    "District": "Baksa",
+    "Crimes": 374
+  },
+  {
+    "District": "Bongaigaon",
+    "Crimes": 372
+  },
+  {
+    "District": "C. I. D.",
+    "Crimes": 1
+  },
+  {
+    "District": "Cachar",
+    "Crimes": 986
+  },
+  {
+    "District": "Chirang",
+    "Crimes": 202
+  },
+  {
+    "District": "Darrang",
+    "Crimes": 1237
+  },
+  {
+    "District": "Dhemaji",
+    "Crimes": 337
+  },
+  {
+    "District": "Dhubri",
+    "Crimes": 2021
+  },
+  {
+    "District": "Dibrugarh",
+    "Crimes": 680
+  },
+  {
+    "District": "G. R. P.",
+    "Crimes": 8
+  },
+  {
+    "District": "Goalpara",
+    "Crimes": 1096
+  },
+  {
+    "District": "Golaghat",
+    "Crimes": 652
+  },
+  {
+    "District": "Guwahati City",
+    "Crimes": 1739
+  },
+  {
+    "District": "Hailakandi",
+    "Crimes": 668
+  },
+  {
+    "District": "Hamren",
+    "Crimes": 59
+  },
+  {
+    "District": "Jorhat",
+    "Crimes": 711
+  },
+  {
+    "District": "Kamrup",
+    "Crimes": 862
+  },
+  {
+    "District": "Karbi Anglong",
+    "Crimes": 172
+  },
+  {
+    "District": "Karimganj",
+    "Crimes": 702
+  },
+  {
+    "District": "Kokrajhar",
+    "Crimes": 477
+  },
+  {
+    "District": "Lakhimpur",
+    "Crimes": 735
+  },
+  {
+    "District": "Morigaon",
+    "Crimes": 837
+  },
+  {
+    "District": "Dima Hasao",
+    "Crimes": 32
+  },
+  {
+    "District": "Nagaon",
+    "Crimes": 1486
+  },
+  {
+    "District": "Nalbari",
+    "Crimes": 373
+  },
+  {
+    "District": "R. P. O.",
+    "Crimes": 25
+  },
+  {
+    "District": "S. T. F.",
+    "Crimes": 0
+  },
+  {
+    "District": "Sibsagar",
+    "Crimes": 919
+  },
+  {
+    "District": "Sonitpur",
+    "Crimes": 746
+  },
+  {
+    "District": "Tinsukia",
+    "Crimes": 333
+  },
+  {
+    "District": "Udalguri",
+    "Crimes": 195
+  },
+  {
+    "District": "Sadia",
+    "Crimes": 34
+  },
+  {
+    "District": "Majuli",
+    "Crimes": 44
+  },
+  {
+    "District": "Biswanath",
+    "Crimes": 388
+  },
+  {
+    "District": "Hojai",
+    "Crimes": 619
+  },
+  {
+    "District": "South Salmara",
+    "Crimes": 454
+  },
+  {
+    "District": "Araria",
+    "Crimes": 230
+  },
+  {
+    "District": "Arwal",
+    "Crimes": 123
+  },
+  {
+    "District": "Aurangabad",
+    "Crimes": 271
+  },
+  {
+    "District": "Bagaha",
+    "Crimes": 165
+  },
+  {
+    "District": "Banka",
+    "Crimes": 234
+  },
+  {
+    "District": "Begusarai",
+    "Crimes": 337
+  },
+  {
+    "District": "Bettiah",
+    "Crimes": 421
+  },
+  {
+    "District": "Bhabhua",
+    "Crimes": 210
+  },
+  {
+    "District": "Bhagalpur",
+    "Crimes": 397
+  },
+  {
+    "District": "Bhojpur",
+    "Crimes": 293
+  },
+  {
+    "District": "Buxar",
+    "Crimes": 214
+  },
+  {
+    "District": "Darbhanga",
+    "Crimes": 507
+  },
+  {
+    "District": "Gaya",
+    "Crimes": 712
+  },
+  {
+    "District": "Gopalganj",
+    "Crimes": 361
+  },
+  {
+    "District": "Jamalpur Railway",
+    "Crimes": 4
+  },
+  {
+    "District": "Jamui",
+    "Crimes": 174
+  },
+  {
+    "District": "Jehanabad",
+    "Crimes": 166
+  },
+  {
+    "District": "Katihar",
+    "Crimes": 393
+  },
+  {
+    "District": "Katihar Railway",
+    "Crimes": 1
+  },
+  {
+    "District": "Khagaria",
+    "Crimes": 227
+  },
+  {
+    "District": "Kishanganj",
+    "Crimes": 260
+  },
+  {
+    "District": "Lakhisarai",
+    "Crimes": 153
+  },
+  {
+    "District": "Madhepura",
+    "Crimes": 156
+  },
+  {
+    "District": "Madhubani",
+    "Crimes": 498
+  },
+  {
+    "District": "Motihari",
+    "Crimes": 568
+  },
+  {
+    "District": "Munger",
+    "Crimes": 111
+  },
+  {
+    "District": "Muzaffarpur",
+    "Crimes": 789
+  },
+  {
+    "District": "Muzaffarpur Railway",
+    "Crimes": 15
+  },
+  {
+    "District": "Nalanda",
+    "Crimes": 544
+  },
+  {
+    "District": "Naugachia",
+    "Crimes": 109
+  },
+  {
+    "District": "Nawadah",
+    "Crimes": 263
+  },
+  {
+    "District": "Patna",
+    "Crimes": 1663
+  },
+  {
+    "District": "Patna Railway",
+    "Crimes": 27
+  },
+  {
+    "District": "Purnea",
+    "Crimes": 269
+  },
+  {
+    "District": "Rohtas",
+    "Crimes": 259
+  },
+  {
+    "District": "Saharsa",
+    "Crimes": 174
+  },
+  {
+    "District": "Samastipur",
+    "Crimes": 405
+  },
+  {
+    "District": "Saran",
+    "Crimes": 521
+  },
+  {
+    "District": "Sheikhpura",
+    "Crimes": 113
+  },
+  {
+    "District": "Sheohar",
+    "Crimes": 58
+  },
+  {
+    "District": "Sitamarhi",
+    "Crimes": 424
+  },
+  {
+    "District": "Siwan",
+    "Crimes": 346
+  },
+  {
+    "District": "Supaul",
+    "Crimes": 258
+  },
+  {
+    "District": "Vaishali",
+    "Crimes": 468
+  },
+  {
+    "District": "Economic Offences Unit",
+    "Crimes": 0
+  },
+  {
+    "District": "Anti Terrorist Squad",
+    "Crimes": 0
+  },
+  {
+    "District": "Balod",
+    "Crimes": 141
+  },
+  {
+    "District": "Balodbazar",
+    "Crimes": 266
+  },
+  {
+    "District": "Balrampur",
+    "Crimes": 205
+  },
+  {
+    "District": "Bemetra",
+    "Crimes": 117
+  },
+  {
+    "District": "Bilaspur",
+    "Crimes": 515
+  },
+  {
+    "District": "Bizapur",
+    "Crimes": 29
+  },
+  {
+    "District": "Dantewara",
+    "Crimes": 30
+  },
+  {
+    "District": "Dhamtari",
+    "Crimes": 98
+  },
+  {
+    "District": "Durg",
+    "Crimes": 585
+  },
+  {
+    "District": "Gariyaband",
+    "Crimes": 109
+  },
+  {
+    "District": "G. R. P. Raipur",
+    "Crimes": 12
+  },
+  {
+    "District": "Jagdalpur",
+    "Crimes": 154
+  },
+  {
+    "District": "Janjgir",
+    "Crimes": 327
+  },
+  {
+    "District": "Jashpur",
+    "Crimes": 204
+  },
+  {
+    "District": "Kabirdham",
+    "Crimes": 158
+  },
+  {
+    "District": "Kanker",
+    "Crimes": 152
+  },
+  {
+    "District": "Kondagaon",
+    "Crimes": 81
+  },
+  {
+    "District": "Korba",
+    "Crimes": 232
+  },
+  {
+    "District": "Koriya",
+    "Crimes": 232
+  },
+  {
+    "District": "Mahasamund",
+    "Crimes": 192
+  },
+  {
+    "District": "Mungali",
+    "Crimes": 122
+  },
+  {
+    "District": "Narayanpur",
+    "Crimes": 13
+  },
+  {
+    "District": "Raigarh",
+    "Crimes": 367
+  },
+  {
+    "District": "Raipur",
+    "Crimes": 724
+  },
+  {
+    "District": "Rajnandgaon",
+    "Crimes": 248
+  },
+  {
+    "District": "Sarguja",
+    "Crimes": 180
+  },
+  {
+    "District": "Sukma",
+    "Crimes": 17
+  },
+  {
+    "District": "Surajpur",
+    "Crimes": 210
+  },
+  {
+    "District": "North Goa",
+    "Crimes": 197
+  },
+  {
+    "District": "South Goa",
+    "Crimes": 154
+  },
+  {
+    "District": "C. I. D.",
+    "Crimes": 14
+  },
+  {
+    "District": "Ahmedabad City",
+    "Crimes": 1066
+  },
+  {
+    "District": "Ahmedabad Rural",
+    "Crimes": 117
+  },
+  {
+    "District": "Amreli",
+    "Crimes": 221
+  },
+  {
+    "District": "Anand",
+    "Crimes": 265
+  },
+  {
+    "District": "Arvalli",
+    "Crimes": 112
+  },
+  {
+    "District": "Banaskantha",
+    "Crimes": 370
+  },
+  {
+    "District": "Bharuch",
+    "Crimes": 172
+  },
+  {
+    "District": "Bhavnagar",
+    "Crimes": 194
+  },
+  {
+    "District": "Botad",
+    "Crimes": 72
+  },
+  {
+    "District": "Chhotaudepur",
+    "Crimes": 49
+  },
+  {
+    "District": "C. I. D. Crime",
+    "Crimes": 0
+  },
+  {
+    "District": "Dahod",
+    "Crimes": 251
+  },
+  {
+    "District": "Dang",
+    "Crimes": 18
+  },
+  {
+    "District": "Devbhumi Dwarka",
+    "Crimes": 74
+  },
+  {
+    "District": "Gandhinagar",
+    "Crimes": 197
+  },
+  {
+    "District": "Gir Somnath",
+    "Crimes": 174
+  },
+  {
+    "District": "Jamnagar",
+    "Crimes": 253
+  },
+  {
+    "District": "Junagadh",
+    "Crimes": 273
+  },
+  {
+    "District": "Kachchh East(G)",
+    "Crimes": 166
+  },
+  {
+    "District": "Kachchh West(B)",
+    "Crimes": 143
+  },
+  {
+    "District": "Kheda",
+    "Crimes": 181
+  },
+  {
+    "District": "Mahisagar",
+    "Crimes": 84
+  },
+  {
+    "District": "Mehsana",
+    "Crimes": 322
+  },
+  {
+    "District": "Morbi",
+    "Crimes": 104
+  },
+  {
+    "District": "Narmada",
+    "Crimes": 28
+  },
+  {
+    "District": "Navsari",
+    "Crimes": 86
+  },
+  {
+    "District": "Panchmahal",
+    "Crimes": 152
+  },
+  {
+    "District": "Patan",
+    "Crimes": 156
+  },
+  {
+    "District": "Porbandar",
+    "Crimes": 101
+  },
+  {
+    "District": "Rajkot City",
+    "Crimes": 356
+  },
+  {
+    "District": "Rajkot Rural",
+    "Crimes": 272
+  },
+  {
+    "District": "Sabarkantha",
+    "Crimes": 244
+  },
+  {
+    "District": "Surat City",
+    "Crimes": 502
+  },
+  {
+    "District": "Surat Rural",
+    "Crimes": 106
+  },
+  {
+    "District": "Surendranagar",
+    "Crimes": 164
+  },
+  {
+    "District": "Tapi",
+    "Crimes": 64
+  },
+  {
+    "District": "Vadodara City",
+    "Crimes": 399
+  },
+  {
+    "District": "Vadodara Rural",
+    "Crimes": 84
+  },
+  {
+    "District": "Valsad",
+    "Crimes": 156
+  },
+  {
+    "District": "W.Rly  Ahmedabad",
+    "Crimes": 0
+  },
+  {
+    "District": "W.Rly Vadodara",
+    "Crimes": 14
+  },
+  {
+    "District": "Ambala (Rural)",
+    "Crimes": 91
+  },
+  {
+    "District": "Ambala (Urban)",
+    "Crimes": 154
+  },
+  {
+    "District": "Bhiwani",
+    "Crimes": 361
+  },
+  {
+    "District": "Faridabad",
+    "Crimes": 973
+  },
+  {
+    "District": "Fatehabad",
+    "Crimes": 282
+  },
+  {
+    "District": "G. R. P.",
+    "Crimes": 27
+  },
+  {
+    "District": "Gurgaon",
+    "Crimes": 959
+  },
+  {
+    "District": "Hissar",
+    "Crimes": 611
+  },
+  {
+    "District": "Jhajjar",
+    "Crimes": 330
+  },
+  {
+    "District": "Jind",
+    "Crimes": 295
+  },
+  {
+    "District": "Kaithal",
+    "Crimes": 309
+  },
+  {
+    "District": "Karnal",
+    "Crimes": 688
+  },
+  {
+    "District": "Kurukshetra",
+    "Crimes": 326
+  },
+  {
+    "District": "Mahendergarh",
+    "Crimes": 282
+  },
+  {
+    "District": "Mewat",
+    "Crimes": 298
+  },
+  {
+    "District": "Palwal",
+    "Crimes": 363
+  },
+  {
+    "District": "Panchkula",
+    "Crimes": 248
+  },
+  {
+    "District": "Panipat",
+    "Crimes": 446
+  },
+  {
+    "District": "Rewari",
+    "Crimes": 332
+  },
+  {
+    "District": "Rohtak",
+    "Crimes": 751
+  },
+  {
+    "District": "Sirsa",
+    "Crimes": 342
+  },
+  {
+    "District": "Sonipat",
+    "Crimes": 427
+  },
+  {
+    "District": "Yamunanagar",
+    "Crimes": 551
+  },
+  {
+    "District": "Irrigation & Power",
+    "Crimes": 0
+  },
+  {
+    "District": "Baddi",
+    "Crimes": 56
+  },
+  {
+    "District": "Bilaspur",
+    "Crimes": 113
+  },
+  {
+    "District": "Chamba",
+    "Crimes": 88
+  },
+  {
+    "District": "C. I. D.",
+    "Crimes": 0
+  },
+  {
+    "District": "G. R. P.",
+    "Crimes": 0
+  },
+  {
+    "District": "Hamirpur",
+    "Crimes": 78
+  },
+  {
+    "District": "Kangra",
+    "Crimes": 230
+  },
+  {
+    "District": "Kinnaur",
+    "Crimes": 20
+  },
+  {
+    "District": "Kullu",
+    "Crimes": 71
+  },
+  {
+    "District": "Lahaul & Spiti",
+    "Crimes": 4
+  },
+  {
+    "District": "Mandi",
+    "Crimes": 189
+  },
+  {
+    "District": "Shimla",
+    "Crimes": 144
+  },
+  {
+    "District": "Sirmaur",
+    "Crimes": 127
+  },
+  {
+    "District": "Solan",
+    "Crimes": 52
+  },
+  {
+    "District": "Una",
+    "Crimes": 117
+  },
+  {
+    "District": "Anantnag",
+    "Crimes": 258
+  },
+  {
+    "District": "Awantipora",
+    "Crimes": 61
+  },
+  {
+    "District": "Bandipora",
+    "Crimes": 85
+  },
+  {
+    "District": "Baramulla",
+    "Crimes": 198
+  },
+  {
+    "District": "Budgam",
+    "Crimes": 135
+  },
+  {
+    "District": "Crime Jammu",
+    "Crimes": 1
+  },
+  {
+    "District": "Crime Srinagar",
+    "Crimes": 0
+  },
+  {
+    "District": "Doda",
+    "Crimes": 70
+  },
+  {
+    "District": "Ganderbal",
+    "Crimes": 99
+  },
+  {
+    "District": "Handwara",
+    "Crimes": 104
+  },
+  {
+    "District": "Jammu",
+    "Crimes": 492
+  },
+  {
+    "District": "Kargil",
+    "Crimes": 5
+  },
+  {
+    "District": "Kathua",
+    "Crimes": 152
+  },
+  {
+    "District": "Kishtwar",
+    "Crimes": 39
+  },
+  {
+    "District": "Kulgam",
+    "Crimes": 175
+  },
+  {
+    "District": "Kupwara",
+    "Crimes": 147
+  },
+  {
+    "District": "Leh",
+    "Crimes": 7
+  },
+  {
+    "District": "Poonch",
+    "Crimes": 87
+  },
+  {
+    "District": "Pulwama",
+    "Crimes": 77
+  },
+  {
+    "District": "Railways Jammu",
+    "Crimes": 1
+  },
+  {
+    "District": "Railways Kashmir",
+    "Crimes": 0
+  },
+  {
+    "District": "Railways Katra",
+    "Crimes": 0
+  },
+  {
+    "District": "Rajouri",
+    "Crimes": 208
+  },
+  {
+    "District": "Ramban",
+    "Crimes": 74
+  },
+  {
+    "District": "Reasi",
+    "Crimes": 76
+  },
+  {
+    "District": "Samba",
+    "Crimes": 42
+  },
+  {
+    "District": "Shopian",
+    "Crimes": 83
+  },
+  {
+    "District": "Sopore",
+    "Crimes": 127
+  },
+  {
+    "District": "Srinagar",
+    "Crimes": 473
+  },
+  {
+    "District": "Udhampur",
+    "Crimes": 87
+  },
+  {
+    "District": "Bokaro",
+    "Crimes": 494
+  },
+  {
+    "District": "Chaibasa",
+    "Crimes": 173
+  },
+  {
+    "District": "Chatra",
+    "Crimes": 187
+  },
+  {
+    "District": "Deoghar",
+    "Crimes": 559
+  },
+  {
+    "District": "Dhanbad",
+    "Crimes": 390
+  },
+  {
+    "District": "Dhanbad Railway",
+    "Crimes": 16
+  },
+  {
+    "District": "Dumka",
+    "Crimes": 202
+  },
+  {
+    "District": "Garhwa",
+    "Crimes": 270
+  },
+  {
+    "District": "Giridih",
+    "Crimes": 674
+  },
+  {
+    "District": "Godda",
+    "Crimes": 212
+  },
+  {
+    "District": "Gumla",
+    "Crimes": 160
+  },
+  {
+    "District": "Hazaribagh",
+    "Crimes": 421
+  },
+  {
+    "District": "Jamshedpur",
+    "Crimes": 568
+  },
+  {
+    "District": "Jamshedpur Railway",
+    "Crimes": 3
+  },
+  {
+    "District": "Jamtara",
+    "Crimes": 204
+  },
+  {
+    "District": "Khunti",
+    "Crimes": 42
+  },
+  {
+    "District": "Koderma",
+    "Crimes": 146
+  },
+  {
+    "District": "Latehar",
+    "Crimes": 143
+  },
+  {
+    "District": "Lohardagga",
+    "Crimes": 120
+  },
+  {
+    "District": "Pakur",
+    "Crimes": 265
+  },
+  {
+    "District": "Palamu",
+    "Crimes": 253
+  },
+  {
+    "District": "Ramgarh",
+    "Crimes": 232
+  },
+  {
+    "District": "Ranchi",
+    "Crimes": 273
+  },
+  {
+    "District": "Sahebganj",
+    "Crimes": 266
+  },
+  {
+    "District": "Saraikela",
+    "Crimes": 184
+  },
+  {
+    "District": "Simdega",
+    "Crimes": 61
+  },
+  {
+    "District": "Bagalkot",
+    "Crimes": 254
+  },
+  {
+    "District": "Bengaluru City",
+    "Crimes": 3079
+  },
+  {
+    "District": "Bengaluru District",
+    "Crimes": 426
+  },
+  {
+    "District": "Belagavi District",
+    "Crimes": 425
+  },
+  {
+    "District": "Ballari",
+    "Crimes": 306
+  },
+  {
+    "District": "Bidar",
+    "Crimes": 305
+  },
+  {
+    "District": "Vijayapura",
+    "Crimes": 360
+  },
+  {
+    "District": "Chikkaballapura",
+    "Crimes": 164
+  },
+  {
+    "District": "Chamarajnagar",
+    "Crimes": 149
+  },
+  {
+    "District": "Chikkamagaluru",
+    "Crimes": 327
+  },
+  {
+    "District": "Chitradurga",
+    "Crimes": 435
+  },
+  {
+    "District": "Dakshina Kannada",
+    "Crimes": 181
+  },
+  {
+    "District": "Davanagere",
+    "Crimes": 385
+  },
+  {
+    "District": "Dharwad",
+    "Crimes": 95
+  },
+  {
+    "District": "Gadag",
+    "Crimes": 85
+  },
+  {
+    "District": "Kalaburgi",
+    "Crimes": 374
+  },
+  {
+    "District": "Hassan",
+    "Crimes": 372
+  },
+  {
+    "District": "Haveri",
+    "Crimes": 135
+  },
+  {
+    "District": "Hubballi Dharwad City",
+    "Crimes": 135
+  },
+  {
+    "District": "K.G.F.",
+    "Crimes": 42
+  },
+  {
+    "District": "Kodagu",
+    "Crimes": 130
+  },
+  {
+    "District": "Kolar",
+    "Crimes": 92
+  },
+  {
+    "District": "Koppal",
+    "Crimes": 133
+  },
+  {
+    "District": "Mandya",
+    "Crimes": 721
+  },
+  {
+    "District": "Mangaluru City",
+    "Crimes": 180
+  },
+  {
+    "District": "Mysuru City",
+    "Crimes": 333
+  },
+  {
+    "District": "Mysuru District",
+    "Crimes": 311
+  },
+  {
+    "District": "Raichur",
+    "Crimes": 480
+  },
+  {
+    "District": "K.Railways",
+    "Crimes": 11
+  },
+  {
+    "District": "Ramanagara",
+    "Crimes": 365
+  },
+  {
+    "District": "Shimoga",
+    "Crimes": 681
+  },
+  {
+    "District": "Tumakuru",
+    "Crimes": 283
+  },
+  {
+    "District": "Udupi",
+    "Crimes": 230
+  },
+  {
+    "District": "Uttara Kannada",
+    "Crimes": 280
+  },
+  {
+    "District": "Yadgiri",
+    "Crimes": 240
+  },
+  {
+    "District": "Belagavi City",
+    "Crimes": 201
+  },
+  {
+    "District": "Alapuzha",
+    "Crimes": 445
+  },
+  {
+    "District": "Ernakulam Commr.",
+    "Crimes": 404
+  },
+  {
+    "District": "Ernakulam Rural",
+    "Crimes": 454
+  },
+  {
+    "District": "Idukki",
+    "Crimes": 405
+  },
+  {
+    "District": "Kannur",
+    "Crimes": 546
+  },
+  {
+    "District": "Kasargod",
+    "Crimes": 354
+  },
+  {
+    "District": "Kollam Commr.",
+    "Crimes": 488
+  },
+  {
+    "District": "Kollam Rural",
+    "Crimes": 502
+  },
+  {
+    "District": "Kottayam",
+    "Crimes": 376
+  },
+  {
+    "District": "Kozhikode Commr.",
+    "Crimes": 361
+  },
+  {
+    "District": "Kozhikode Rural",
+    "Crimes": 569
+  },
+  {
+    "District": "Malappuram",
+    "Crimes": 989
+  },
+  {
+    "District": "Palakkad",
+    "Crimes": 624
+  },
+  {
+    "District": "Pathanamthitta",
+    "Crimes": 331
+  },
+  {
+    "District": "Railways",
+    "Crimes": 49
+  },
+  {
+    "District": "Thrissur Commr.",
+    "Crimes": 264
+  },
+  {
+    "District": "Thrissur Rural",
+    "Crimes": 688
+  },
+  {
+    "District": "Trivandrum Commr.",
+    "Crimes": 425
+  },
+  {
+    "District": "Trivandrum Rural",
+    "Crimes": 1040
+  },
+  {
+    "District": "Wayanadu",
+    "Crimes": 380
+  },
+  {
+    "District": "Crime Branch",
+    "Crimes": 14
+  },
+  {
+    "District": "Agar",
+    "Crimes": 186
+  },
+  {
+    "District": "Alirajpur",
+    "Crimes": 103
+  },
+  {
+    "District": "Anuppur",
+    "Crimes": 268
+  },
+  {
+    "District": "Ashok Nagar",
+    "Crimes": 381
+  },
+  {
+    "District": "Balaghat",
+    "Crimes": 495
+  },
+  {
+    "District": "Barwani",
+    "Crimes": 255
+  },
+  {
+    "District": "Betul",
+    "Crimes": 436
+  },
+  {
+    "District": "Bhind",
+    "Crimes": 433
+  },
+  {
+    "District": "Bhopal",
+    "Crimes": 1192
+  },
+  {
+    "District": "Bhopal Railway",
+    "Crimes": 48
+  },
+  {
+    "District": "Burhanpur",
+    "Crimes": 169
+  },
+  {
+    "District": "Chhatarpur",
+    "Crimes": 487
+  },
+  {
+    "District": "Chhindwara",
+    "Crimes": 695
+  },
+  {
+    "District": "Damoh",
+    "Crimes": 371
+  },
+  {
+    "District": "Datia",
+    "Crimes": 192
+  },
+  {
+    "District": "Dewas",
+    "Crimes": 675
+  },
+  {
+    "District": "Dhar",
+    "Crimes": 543
+  },
+  {
+    "District": "Dindori",
+    "Crimes": 261
+  },
+  {
+    "District": "Guna",
+    "Crimes": 421
+  },
+  {
+    "District": "Gwalior",
+    "Crimes": 972
+  },
+  {
+    "District": "Harda",
+    "Crimes": 210
+  },
+  {
+    "District": "Hoshangabad",
+    "Crimes": 383
+  },
+  {
+    "District": "Indore",
+    "Crimes": 1193
+  },
+  {
+    "District": "Indore Railway",
+    "Crimes": 10
+  },
+  {
+    "District": "Jabalpur",
+    "Crimes": 990
+  },
+  {
+    "District": "Jabalpur Railway",
+    "Crimes": 31
+  },
+  {
+    "District": "Jhabua",
+    "Crimes": 220
+  },
+  {
+    "District": "Katni",
+    "Crimes": 444
+  },
+  {
+    "District": "Khandwa",
+    "Crimes": 445
+  },
+  {
+    "District": "Khargone",
+    "Crimes": 619
+  },
+  {
+    "District": "Mandla",
+    "Crimes": 287
+  },
+  {
+    "District": "Mandsaur",
+    "Crimes": 379
+  },
+  {
+    "District": "Morena",
+    "Crimes": 545
+  },
+  {
+    "District": "Narsinghpur",
+    "Crimes": 409
+  },
+  {
+    "District": "Neemuch",
+    "Crimes": 207
+  },
+  {
+    "District": "Panna",
+    "Crimes": 252
+  },
+  {
+    "District": "Raisen",
+    "Crimes": 400
+  },
+  {
+    "District": "Rajgarh",
+    "Crimes": 575
+  },
+  {
+    "District": "Ratlam",
+    "Crimes": 533
+  },
+  {
+    "District": "Rewa",
+    "Crimes": 642
+  },
+  {
+    "District": "Sagar",
+    "Crimes": 977
+  },
+  {
+    "District": "Satna",
+    "Crimes": 560
+  },
+  {
+    "District": "Seoni",
+    "Crimes": 588
+  },
+  {
+    "District": "Shahdol",
+    "Crimes": 636
+  },
+  {
+    "District": "Shajapur",
+    "Crimes": 241
+  },
+  {
+    "District": "Sheopur",
+    "Crimes": 89
+  },
+  {
+    "District": "Shivpuri",
+    "Crimes": 506
+  },
+  {
+    "District": "Sidhi",
+    "Crimes": 220
+  },
+  {
+    "District": "Sehore",
+    "Crimes": 526
+  },
+  {
+    "District": "Singrauli",
+    "Crimes": 344
+  },
+  {
+    "District": "Tikamgarh",
+    "Crimes": 386
+  },
+  {
+    "District": "Ujjain",
+    "Crimes": 871
+  },
+  {
+    "District": "Umaria",
+    "Crimes": 167
+  },
+  {
+    "District": "Vidisha",
+    "Crimes": 667
+  },
+  {
+    "District": "Cyber Cell",
+    "Crimes": 0
+  },
+  {
+    "District": "Ahmednagar",
+    "Crimes": 953
+  },
+  {
+    "District": "Akola",
+    "Crimes": 489
+  },
+  {
+    "District": "Amravati Commr.",
+    "Crimes": 501
+  },
+  {
+    "District": "Amravati Rural",
+    "Crimes": 948
+  },
+  {
+    "District": "Aurangabad Commr.",
+    "Crimes": 882
+  },
+  {
+    "District": "Aurangabad Rural",
+    "Crimes": 539
+  },
+  {
+    "District": "Beed",
+    "Crimes": 823
+  },
+  {
+    "District": "Bhandara",
+    "Crimes": 225
+  },
+  {
+    "District": "Buldhana",
+    "Crimes": 567
+  },
+  {
+    "District": "Chandrapur",
+    "Crimes": 751
+  },
+  {
+    "District": "Dhule",
+    "Crimes": 348
+  },
+  {
+    "District": "Gadchiroli",
+    "Crimes": 125
+  },
+  {
+    "District": "Gondia",
+    "Crimes": 286
+  },
+  {
+    "District": "Hingoli",
+    "Crimes": 214
+  },
+  {
+    "District": "Jalgaon",
+    "Crimes": 743
+  },
+  {
+    "District": "Jalna",
+    "Crimes": 607
+  },
+  {
+    "District": "Kolhapur",
+    "Crimes": 633
+  },
+  {
+    "District": "Latur",
+    "Crimes": 512
+  },
+  {
+    "District": "Mumbai Commr.",
+    "Crimes": 4803
+  },
+  {
+    "District": "Mumbai Railway",
+    "Crimes": 117
+  },
+  {
+    "District": "Nagpur Commr.",
+    "Crimes": 1302
+  },
+  {
+    "District": "Nagpur Railway",
+    "Crimes": 32
+  },
+  {
+    "District": "Nagpur Rural",
+    "Crimes": 420
+  },
+  {
+    "District": "Nanded",
+    "Crimes": 554
+  },
+  {
+    "District": "Nandurbar",
+    "Crimes": 142
+  },
+  {
+    "District": "Nasik Commr.",
+    "Crimes": 474
+  },
+  {
+    "District": "Nasik Rural",
+    "Crimes": 942
+  },
+  {
+    "District": "Navi Mumbai",
+    "Crimes": 619
+  },
+  {
+    "District": "Osmanabad",
+    "Crimes": 329
+  },
+  {
+    "District": "Palghar",
+    "Crimes": 691
+  },
+  {
+    "District": "Parbhani",
+    "Crimes": 473
+  },
+  {
+    "District": "Pune Commr.",
+    "Crimes": 1969
+  },
+  {
+    "District": "Pune Railway",
+    "Crimes": 24
+  },
+  {
+    "District": "Pune Rural",
+    "Crimes": 1118
+  },
+  {
+    "District": "Raigad",
+    "Crimes": 316
+  },
+  {
+    "District": "Ratnagiri",
+    "Crimes": 171
+  },
+  {
+    "District": "Sangli",
+    "Crimes": 493
+  },
+  {
+    "District": "Satara",
+    "Crimes": 754
+  },
+  {
+    "District": "Sindhudurg",
+    "Crimes": 91
+  },
+  {
+    "District": "Solapur Commr.",
+    "Crimes": 264
+  },
+  {
+    "District": "Solapur Rural",
+    "Crimes": 610
+  },
+  {
+    "District": "Thane Commr.",
+    "Crimes": 1646
+  },
+  {
+    "District": "Thane Rural",
+    "Crimes": 643
+  },
+  {
+    "District": "Wardha",
+    "Crimes": 443
+  },
+  {
+    "District": "Washim",
+    "Crimes": 425
+  },
+  {
+    "District": "Yavatmal",
+    "Crimes": 1115
+  },
+  {
+    "District": "Bishnupur",
+    "Crimes": 41
+  },
+  {
+    "District": "Chandel",
+    "Crimes": 2
+  },
+  {
+    "District": "Churachandpur",
+    "Crimes": 2
+  },
+  {
+    "District": "C. I. D.",
+    "Crimes": 0
+  },
+  {
+    "District": "Imphal East",
+    "Crimes": 59
+  },
+  {
+    "District": "Imphal West",
+    "Crimes": 103
+  },
+  {
+    "District": "Senapati",
+    "Crimes": 2
+  },
+  {
+    "District": "Tamenglong",
+    "Crimes": 0
+  },
+  {
+    "District": "Thoubal",
+    "Crimes": 56
+  },
+  {
+    "District": "Ukhrul",
+    "Crimes": 1
+  },
+  {
+    "District": "Garo Hills East",
+    "Crimes": 8
+  },
+  {
+    "District": "Garo Hills North",
+    "Crimes": 21
+  },
+  {
+    "District": "Garo Hills South",
+    "Crimes": 7
+  },
+  {
+    "District": "Garo Hills South West",
+    "Crimes": 20
+  },
+  {
+    "District": "Garo Hills West",
+    "Crimes": 58
+  },
+  {
+    "District": "Jaintia Hills West",
+    "Crimes": 17
+  },
+  {
+    "District": "Jaintia Hills East",
+    "Crimes": 15
+  },
+  {
+    "District": "Khasi Hills East",
+    "Crimes": 105
+  },
+  {
+    "District": "Khasi Hills South West",
+    "Crimes": 6
+  },
+  {
+    "District": "Khasi Hills West",
+    "Crimes": 11
+  },
+  {
+    "District": "Ri-Bhoi",
+    "Crimes": 66
+  },
+  {
+    "District": "Aizawl",
+    "Crimes": 56
+  },
+  {
+    "District": "Champhai",
+    "Crimes": 10
+  },
+  {
+    "District": "Kolasib",
+    "Crimes": 19
+  },
+  {
+    "District": "Lawngtlai",
+    "Crimes": 15
+  },
+  {
+    "District": "Lunglei",
+    "Crimes": 26
+  },
+  {
+    "District": "Mamit",
+    "Crimes": 12
+  },
+  {
+    "District": "Saiha",
+    "Crimes": 8
+  },
+  {
+    "District": "Serchhip",
+    "Crimes": 12
+  },
+  {
+    "District": "Spl Traffic",
+    "Crimes": 0
+  },
+  {
+    "District": "Spl Narcotic",
+    "Crimes": 0
+  },
+  {
+    "District": "Dimapur",
+    "Crimes": 58
+  },
+  {
+    "District": "Kiphire",
+    "Crimes": 0
+  },
+  {
+    "District": "Kohima",
+    "Crimes": 19
+  },
+  {
+    "District": "Longleng",
+    "Crimes": 0
+  },
+  {
+    "District": "Mokokchung",
+    "Crimes": 1
+  },
+  {
+    "District": "Mon",
+    "Crimes": 5
+  },
+  {
+    "District": "Peren",
+    "Crimes": 1
+  },
+  {
+    "District": "Phek",
+    "Crimes": 2
+  },
+  {
+    "District": "Tuensang",
+    "Crimes": 1
+  },
+  {
+    "District": "Wokha",
+    "Crimes": 2
+  },
+  {
+    "District": "Zunheboto",
+    "Crimes": 1
+  },
+  {
+    "District": "Angul",
+    "Crimes": 612
+  },
+  {
+    "District": "Balasore",
+    "Crimes": 1403
+  },
+  {
+    "District": "Baragarh",
+    "Crimes": 706
+  },
+  {
+    "District": "Berhampur",
+    "Crimes": 450
+  },
+  {
+    "District": "Bhadrak",
+    "Crimes": 672
+  },
+  {
+    "District": "Bolangir",
+    "Crimes": 590
+  },
+  {
+    "District": "Boudh",
+    "Crimes": 239
+  },
+  {
+    "District": "Cuttack",
+    "Crimes": 218
+  },
+  {
+    "District": "DCP BBSR",
+    "Crimes": 559
+  },
+  {
+    "District": "DCP CTC",
+    "Crimes": 461
+  },
+  {
+    "District": "Deogarh",
+    "Crimes": 247
+  },
+  {
+    "District": "Dhenkanal",
+    "Crimes": 766
+  },
+  {
+    "District": "Gajapati",
+    "Crimes": 143
+  },
+  {
+    "District": "Ganjam",
+    "Crimes": 551
+  },
+  {
+    "District": "Jagatsinghpur",
+    "Crimes": 467
+  },
+  {
+    "District": "Jajpur",
+    "Crimes": 715
+  },
+  {
+    "District": "Jharsuguda",
+    "Crimes": 240
+  },
+  {
+    "District": "Kalahandi",
+    "Crimes": 770
+  },
+  {
+    "District": "Kandhamal",
+    "Crimes": 489
+  },
+  {
+    "District": "Kendrapara",
+    "Crimes": 604
+  },
+  {
+    "District": "Keonjhar",
+    "Crimes": 611
+  },
+  {
+    "District": "Khurda",
+    "Crimes": 329
+  },
+  {
+    "District": "Koraput",
+    "Crimes": 544
+  },
+  {
+    "District": "Malkangiri",
+    "Crimes": 162
+  },
+  {
+    "District": "Mayurbhanj",
+    "Crimes": 866
+  },
+  {
+    "District": "Nayagarh",
+    "Crimes": 309
+  },
+  {
+    "District": "Nabarangpur",
+    "Crimes": 666
+  },
+  {
+    "District": "Nuapada",
+    "Crimes": 235
+  },
+  {
+    "District": "Puri",
+    "Crimes": 635
+  },
+  {
+    "District": "Rayagada",
+    "Crimes": 306
+  },
+  {
+    "District": "Rourkela",
+    "Crimes": 519
+  },
+  {
+    "District": "Sambalpur",
+    "Crimes": 535
+  },
+  {
+    "District": "Sonepur",
+    "Crimes": 181
+  },
+  {
+    "District": "SRP (Cuttack)",
+    "Crimes": 14
+  },
+  {
+    "District": "SRP (Rourkela)",
+    "Crimes": 15
+  },
+  {
+    "District": "Sundargarh",
+    "Crimes": 314
+  },
+  {
+    "District": "CID, CB",
+    "Crimes": 0
+  },
+  {
+    "District": "HRPC",
+    "Crimes": 1
+  },
+  {
+    "District": "Amritsar Rural",
+    "Crimes": 264
+  },
+  {
+    "District": "Barnala",
+    "Crimes": 126
+  },
+  {
+    "District": "Batala",
+    "Crimes": 146
+  },
+  {
+    "District": "Bathinda",
+    "Crimes": 235
+  },
+  {
+    "District": "CP Amritsar",
+    "Crimes": 249
+  },
+  {
+    "District": "CP Jalandhar",
+    "Crimes": 361
+  },
+  {
+    "District": "CP Ludhiana",
+    "Crimes": 653
+  },
+  {
+    "District": "Faridkot",
+    "Crimes": 90
+  },
+  {
+    "District": "Fatehgarh Sahib",
+    "Crimes": 109
+  },
+  {
+    "District": "Fazilka",
+    "Crimes": 165
+  },
+  {
+    "District": "Ferozepur",
+    "Crimes": 149
+  },
+  {
+    "District": "G. R. P.",
+    "Crimes": 9
+  },
+  {
+    "District": "Gurdaspur",
+    "Crimes": 97
+  },
+  {
+    "District": "Hoshiarpur",
+    "Crimes": 292
+  },
+  {
+    "District": "Jalandhar Rural",
+    "Crimes": 152
+  },
+  {
+    "District": "Kapurthala",
+    "Crimes": 147
+  },
+  {
+    "District": "Khanna",
+    "Crimes": 119
+  },
+  {
+    "District": "Ludhiana Rural",
+    "Crimes": 122
+  },
+  {
+    "District": "Mansa",
+    "Crimes": 116
+  },
+  {
+    "District": "Moga",
+    "Crimes": 132
+  },
+  {
+    "District": "Muktsar",
+    "Crimes": 117
+  },
+  {
+    "District": "Pathankot",
+    "Crimes": 131
+  },
+  {
+    "District": "Patiala",
+    "Crimes": 415
+  },
+  {
+    "District": "Ropar",
+    "Crimes": 111
+  },
+  {
+    "District": "Sangrur",
+    "Crimes": 225
+  },
+  {
+    "District": "SAS Nagar",
+    "Crimes": 298
+  },
+  {
+    "District": "SBS Nagar",
+    "Crimes": 72
+  },
+  {
+    "District": "Tarn Taran",
+    "Crimes": 189
+  },
+  {
+    "District": "Ajmer",
+    "Crimes": 1303
+  },
+  {
+    "District": "Alwar",
+    "Crimes": 1532
+  },
+  {
+    "District": "Banswara",
+    "Crimes": 544
+  },
+  {
+    "District": "Baran",
+    "Crimes": 794
+  },
+  {
+    "District": "Barmer",
+    "Crimes": 760
+  },
+  {
+    "District": "Bharatpur",
+    "Crimes": 1208
+  },
+  {
+    "District": "Bhilwara",
+    "Crimes": 1187
+  },
+  {
+    "District": "Bikaner",
+    "Crimes": 731
+  },
+  {
+    "District": "Bundi",
+    "Crimes": 632
+  },
+  {
+    "District": "Chittorgarh",
+    "Crimes": 1013
+  },
+  {
+    "District": "Churu",
+    "Crimes": 428
+  },
+  {
+    "District": "Dausa",
+    "Crimes": 344
+  },
+  {
+    "District": "Dholpur",
+    "Crimes": 504
+  },
+  {
+    "District": "Dungarpur",
+    "Crimes": 518
+  },
+  {
+    "District": "G.R.P.Ajmer",
+    "Crimes": 17
+  },
+  {
+    "District": "G.R.P.Jodhpur",
+    "Crimes": 6
+  },
+  {
+    "District": "Ganganagar",
+    "Crimes": 1266
+  },
+  {
+    "District": "Hanumangarh",
+    "Crimes": 869
+  },
+  {
+    "District": "Jaipur East",
+    "Crimes": 589
+  },
+  {
+    "District": "Jaipur North",
+    "Crimes": 523
+  },
+  {
+    "District": "Jaipur Rural",
+    "Crimes": 596
+  },
+  {
+    "District": "Jaipur South",
+    "Crimes": 429
+  },
+  {
+    "District": "Jaipur West",
+    "Crimes": 638
+  },
+  {
+    "District": "Jaisalmer",
+    "Crimes": 118
+  },
+  {
+    "District": "Jalore",
+    "Crimes": 300
+  },
+  {
+    "District": "Jhalawar",
+    "Crimes": 987
+  },
+  {
+    "District": "Jhunjhunu",
+    "Crimes": 545
+  },
+  {
+    "District": "Jodhpur East",
+    "Crimes": 425
+  },
+  {
+    "District": "Jodhpur West",
+    "Crimes": 388
+  },
+  {
+    "District": "Jodhpur Rural",
+    "Crimes": 415
+  },
+  {
+    "District": "Karauli",
+    "Crimes": 500
+  },
+  {
+    "District": "Kota City",
+    "Crimes": 858
+  },
+  {
+    "District": "Kota Rural",
+    "Crimes": 478
+  },
+  {
+    "District": "Nagaur",
+    "Crimes": 881
+  },
+  {
+    "District": "Pali",
+    "Crimes": 956
+  },
+  {
+    "District": "Pratapgarh",
+    "Crimes": 739
+  },
+  {
+    "District": "Rajsamand",
+    "Crimes": 474
+  },
+  {
+    "District": "Sawai Madhopur",
+    "Crimes": 539
+  },
+  {
+    "District": "Sikar",
+    "Crimes": 695
+  },
+  {
+    "District": "Sirohi",
+    "Crimes": 450
+  },
+  {
+    "District": "Tonk",
+    "Crimes": 539
+  },
+  {
+    "District": "Udaipur",
+    "Crimes": 1447
+  },
+  {
+    "District": "Jaipur Metro",
+    "Crimes": 0
+  },
+  {
+    "District": "East",
+    "Crimes": 38
+  },
+  {
+    "District": "North",
+    "Crimes": 1
+  },
+  {
+    "District": "South",
+    "Crimes": 8
+  },
+  {
+    "District": "West",
+    "Crimes": 6
+  },
+  {
+    "District": "Ariyalur",
+    "Crimes": 33
+  },
+  {
+    "District": "Chennai",
+    "Crimes": 523
+  },
+  {
+    "District": "Coimbatore",
+    "Crimes": 96
+  },
+  {
+    "District": "Coimbatore City",
+    "Crimes": 104
+  },
+  {
+    "District": "Cuddalore",
+    "Crimes": 196
+  },
+  {
+    "District": "Dharmapuri",
+    "Crimes": 178
+  },
+  {
+    "District": "Dindigul",
+    "Crimes": 338
+  },
+  {
+    "District": "Erode",
+    "Crimes": 69
+  },
+  {
+    "District": "Kanchipuram",
+    "Crimes": 56
+  },
+  {
+    "District": "Kanyakumari",
+    "Crimes": 165
+  },
+  {
+    "District": "Karur",
+    "Crimes": 63
+  },
+  {
+    "District": "Krishnagiri",
+    "Crimes": 176
+  },
+  {
+    "District": "Madurai",
+    "Crimes": 601
+  },
+  {
+    "District": "Madurai City",
+    "Crimes": 152
+  },
+  {
+    "District": "Nagapattinam",
+    "Crimes": 110
+  },
+  {
+    "District": "Namakkal",
+    "Crimes": 85
+  },
+  {
+    "District": "Nilgiris",
+    "Crimes": 46
+  },
+  {
+    "District": "Perambalur",
+    "Crimes": 51
+  },
+  {
+    "District": "Pudukottai",
+    "Crimes": 66
+  },
+  {
+    "District": "Ramnathapuram",
+    "Crimes": 139
+  },
+  {
+    "District": "Railway Chennai",
+    "Crimes": 10
+  },
+  {
+    "District": "Railway Trichy",
+    "Crimes": 2
+  },
+  {
+    "District": "Salem",
+    "Crimes": 253
+  },
+  {
+    "District": "Salem City",
+    "Crimes": 62
+  },
+  {
+    "District": "Sivagangai",
+    "Crimes": 206
+  },
+  {
+    "District": "Thanjavur",
+    "Crimes": 128
+  },
+  {
+    "District": "Theni",
+    "Crimes": 146
+  },
+  {
+    "District": "Thirunelveli",
+    "Crimes": 289
+  },
+  {
+    "District": "Thirunelveli City",
+    "Crimes": 37
+  },
+  {
+    "District": "Thiruvallur",
+    "Crimes": 34
+  },
+  {
+    "District": "Thiruvannamalai",
+    "Crimes": 128
+  },
+  {
+    "District": "Thiruvarur",
+    "Crimes": 78
+  },
+  {
+    "District": "Thoothukudi",
+    "Crimes": 176
+  },
+  {
+    "District": "Tiruppur",
+    "Crimes": 84
+  },
+  {
+    "District": "Tiruppur City",
+    "Crimes": 38
+  },
+  {
+    "District": "Trichy",
+    "Crimes": 122
+  },
+  {
+    "District": "Trichy City",
+    "Crimes": 64
+  },
+  {
+    "District": "Vellore",
+    "Crimes": 179
+  },
+  {
+    "District": "Villupuram",
+    "Crimes": 373
+  },
+  {
+    "District": "Virudhunagar",
+    "Crimes": 191
+  },
+  {
+    "District": "Adilabad",
+    "Crimes": 953
+  },
+  {
+    "District": "Cyberabad",
+    "Crimes": 2994
+  },
+  {
+    "District": "Hyderabad City",
+    "Crimes": 2405
+  },
+  {
+    "District": "Karimnagar",
+    "Crimes": 1563
+  },
+  {
+    "District": "Khammam",
+    "Crimes": 1397
+  },
+  {
+    "District": "Mahaboob Nagar",
+    "Crimes": 1070
+  },
+  {
+    "District": "Medak",
+    "Crimes": 1019
+  },
+  {
+    "District": "Nalgonda",
+    "Crimes": 1533
+  },
+  {
+    "District": "Nizamabad",
+    "Crimes": 779
+  },
+  {
+    "District": "Ranga Reddy",
+    "Crimes": 294
+  },
+  {
+    "District": "Secunderabad Railway",
+    "Crimes": 15
+  },
+  {
+    "District": "Warangal Rural",
+    "Crimes": 607
+  },
+  {
+    "District": "Warangal City",
+    "Crimes": 506
+  },
+  {
+    "District": "Dhalai",
+    "Crimes": 120
+  },
+  {
+    "District": "Gomati",
+    "Crimes": 175
+  },
+  {
+    "District": "G. R. P.",
+    "Crimes": 0
+  },
+  {
+    "District": "Kowai",
+    "Crimes": 98
+  },
+  {
+    "District": "North",
+    "Crimes": 158
+  },
+  {
+    "District": "Sipahijala",
+    "Crimes": 167
+  },
+  {
+    "District": "South",
+    "Crimes": 184
+  },
+  {
+    "District": "Unakoti",
+    "Crimes": 57
+  },
+  {
+    "District": "West",
+    "Crimes": 308
+  },
+  {
+    "District": "Agra",
+    "Crimes": 1184
+  },
+  {
+    "District": "Aligarh",
+    "Crimes": 954
+  },
+  {
+    "District": "Allahabad",
+    "Crimes": 945
+  },
+  {
+    "District": "Ambedkar Nagar",
+    "Crimes": 259
+  },
+  {
+    "District": "Amethi",
+    "Crimes": 260
+  },
+  {
+    "District": "Amroha",
+    "Crimes": 447
+  },
+  {
+    "District": "Auraiya",
+    "Crimes": 482
+  },
+  {
+    "District": "Azamgarh",
+    "Crimes": 442
+  },
+  {
+    "District": "Badaun",
+    "Crimes": 585
+  },
+  {
+    "District": "Baghpat",
+    "Crimes": 426
+  },
+  {
+    "District": "Bahraich",
+    "Crimes": 489
+  },
+  {
+    "District": "Ballia",
+    "Crimes": 292
+  },
+  {
+    "District": "Balrampur",
+    "Crimes": 104
+  },
+  {
+    "District": "Banda",
+    "Crimes": 311
+  },
+  {
+    "District": "Barabanki",
+    "Crimes": 258
+  },
+  {
+    "District": "Bareilly",
+    "Crimes": 1019
+  },
+  {
+    "District": "Basti",
+    "Crimes": 183
+  },
+  {
+    "District": "Bijnor",
+    "Crimes": 742
+  },
+  {
+    "District": "Bulandshahar",
+    "Crimes": 917
+  },
+  {
+    "District": "Chandoli",
+    "Crimes": 263
+  },
+  {
+    "District": "Chitrakoot",
+    "Crimes": 172
+  },
+  {
+    "District": "Deoria",
+    "Crimes": 308
+  },
+  {
+    "District": "Etah",
+    "Crimes": 340
+  },
+  {
+    "District": "Etawah",
+    "Crimes": 478
+  },
+  {
+    "District": "Faizabad",
+    "Crimes": 312
+  },
+  {
+    "District": "Fatehgarh",
+    "Crimes": 355
+  },
+  {
+    "District": "Fatehpur",
+    "Crimes": 476
+  },
+  {
+    "District": "Firozabad",
+    "Crimes": 678
+  },
+  {
+    "District": "G. R. P.",
+    "Crimes": 122
+  },
+  {
+    "District": "Gautambudh Nagar",
+    "Crimes": 522
+  },
+  {
+    "District": "Ghaziabad",
+    "Crimes": 1330
+  },
+  {
+    "District": "Ghazipur",
+    "Crimes": 447
+  },
+  {
+    "District": "Gonda",
+    "Crimes": 229
+  },
+  {
+    "District": "Gorakhpur",
+    "Crimes": 662
+  },
+  {
+    "District": "Hamirpur",
+    "Crimes": 386
+  },
+  {
+    "District": "Hapur",
+    "Crimes": 288
+  },
+  {
+    "District": "Hardoi",
+    "Crimes": 488
+  },
+  {
+    "District": "Hathras",
+    "Crimes": 328
+  },
+  {
+    "District": "Jalaun",
+    "Crimes": 164
+  },
+  {
+    "District": "Jaunpur",
+    "Crimes": 292
+  },
+  {
+    "District": "Jhansi",
+    "Crimes": 552
+  },
+  {
+    "District": "Kannauj",
+    "Crimes": 284
+  },
+  {
+    "District": "Kanpur Dehat",
+    "Crimes": 472
+  },
+  {
+    "District": "Kanpur Nagar",
+    "Crimes": 1314
+  },
+  {
+    "District": "Kasganj",
+    "Crimes": 235
+  },
+  {
+    "District": "Kaushambi",
+    "Crimes": 406
+  },
+  {
+    "District": "Khiri",
+    "Crimes": 495
+  },
+  {
+    "District": "Kushi Nagar",
+    "Crimes": 348
+  },
+  {
+    "District": "Lalitpur",
+    "Crimes": 153
+  },
+  {
+    "District": "Lucknow",
+    "Crimes": 1762
+  },
+  {
+    "District": "Maharajganj",
+    "Crimes": 225
+  },
+  {
+    "District": "Mahoba",
+    "Crimes": 244
+  },
+  {
+    "District": "Mainpuri",
+    "Crimes": 333
+  },
+  {
+    "District": "Mathura",
+    "Crimes": 597
+  },
+  {
+    "District": "Mau",
+    "Crimes": 194
+  },
+  {
+    "District": "Meerut",
+    "Crimes": 859
+  },
+  {
+    "District": "Mirzapur",
+    "Crimes": 96
+  },
+  {
+    "District": "Moradabad",
+    "Crimes": 846
+  },
+  {
+    "District": "Muzaffarnagar",
+    "Crimes": 572
+  },
+  {
+    "District": "Pilibhit",
+    "Crimes": 393
+  },
+  {
+    "District": "Pratapgarh",
+    "Crimes": 546
+  },
+  {
+    "District": "Raibareilly",
+    "Crimes": 308
+  },
+  {
+    "District": "Rampur",
+    "Crimes": 431
+  },
+  {
+    "District": "Saharanpur",
+    "Crimes": 641
+  },
+  {
+    "District": "Sambhal",
+    "Crimes": 426
+  },
+  {
+    "District": "Sant Kabirnagar",
+    "Crimes": 139
+  },
+  {
+    "District": "Shahjahanpur",
+    "Crimes": 473
+  },
+  {
+    "District": "Shamli",
+    "Crimes": 228
+  },
+  {
+    "District": "Shrawasti",
+    "Crimes": 138
+  },
+  {
+    "District": "Sidharthnagar",
+    "Crimes": 209
+  },
+  {
+    "District": "Sitapur",
+    "Crimes": 607
+  },
+  {
+    "District": "Sonbhadra",
+    "Crimes": 129
+  },
+  {
+    "District": "Bhadohi",
+    "Crimes": 110
+  },
+  {
+    "District": "Sultanpur",
+    "Crimes": 351
+  },
+  {
+    "District": "Unnao",
+    "Crimes": 724
+  },
+  {
+    "District": "Varanasi",
+    "Crimes": 748
+  },
+  {
+    "District": "Almora",
+    "Crimes": 33
+  },
+  {
+    "District": "Bageshwar",
+    "Crimes": 31
+  },
+  {
+    "District": "Chamoli",
+    "Crimes": 35
+  },
+  {
+    "District": "Champawat",
+    "Crimes": 14
+  },
+  {
+    "District": "Dehradun",
+    "Crimes": 343
+  },
+  {
+    "District": "Haridwar",
+    "Crimes": 332
+  },
+  {
+    "District": "Nainital",
+    "Crimes": 138
+  },
+  {
+    "District": "Pauri Garhwal",
+    "Crimes": 48
+  },
+  {
+    "District": "Pithoragarh",
+    "Crimes": 21
+  },
+  {
+    "District": "Rudra Prayag",
+    "Crimes": 8
+  },
+  {
+    "District": "Tehri Garhwal",
+    "Crimes": 31
+  },
+  {
+    "District": "Udhamsingh Nagar",
+    "Crimes": 382
+  },
+  {
+    "District": "Uttarkashi",
+    "Crimes": 37
+  },
+  {
+    "District": "North 24 Parganas",
+    "Crimes": 2690
+  },
+  {
+    "District": "South 24 Parganas",
+    "Crimes": 4073
+  },
+  {
+    "District": "Alipurduar",
+    "Crimes": 553
+  },
+  {
+    "District": "Asansol-Durgapur PC",
+    "Crimes": 668
+  },
+  {
+    "District": "Bankura",
+    "Crimes": 613
+  },
+  {
+    "District": "Barrackpur PC",
+    "Crimes": 1738
+  },
+  {
+    "District": "Bidhannagar PC",
+    "Crimes": 532
+  },
+  {
+    "District": "Birbhum",
+    "Crimes": 508
+  },
+  {
+    "District": "Burdwan",
+    "Crimes": 1301
+  },
+  {
+    "District": "Coochbehar",
+    "Crimes": 1169
+  },
+  {
+    "District": "Dakshin Dinajpur",
+    "Crimes": 562
+  },
+  {
+    "District": "Darjeeling",
+    "Crimes": 404
+  },
+  {
+    "District": "Hooghly",
+    "Crimes": 1677
+  },
+  {
+    "District": "Howrah G. R. P.",
+    "Crimes": 22
+  },
+  {
+    "District": "Howrah PC",
+    "Crimes": 853
+  },
+  {
+    "District": "Howrah Rural",
+    "Crimes": 1112
+  },
+  {
+    "District": "Jalpaiguri",
+    "Crimes": 764
+  },
+  {
+    "District": "Jhargram Police District",
+    "Crimes": 202
+  },
+  {
+    "District": "Kharagpur G. R. P.",
+    "Crimes": 12
+  },
+  {
+    "District": "Kolkata",
+    "Crimes": 1919
+  },
+  {
+    "District": "Malda",
+    "Crimes": 1175
+  },
+  {
+    "District": "Murshidabad",
+    "Crimes": 2984
+  },
+  {
+    "District": "Nadia",
+    "Crimes": 2331
+  },
+  {
+    "District": "Paschim Medinipur",
+    "Crimes": 1653
+  },
+  {
+    "District": "Purab Medinipur",
+    "Crimes": 1355
+  },
+  {
+    "District": "Purulia",
+    "Crimes": 538
+  },
+  {
+    "District": "Sealdah G. R. P.",
+    "Crimes": 44
+  },
+  {
+    "District": "Siliguri G. R. P.",
+    "Crimes": 11
+  },
+  {
+    "District": "Siliguri PC",
+    "Crimes": 954
+  },
+  {
+    "District": "Uttar Dinajpur",
+    "Crimes": 801
+  },
+  {
+    "District": "South Andaman",
+    "Crimes": 79
+  },
+  {
+    "District": "North & Middle Andaman",
+    "Crimes": 53
+  },
+  {
+    "District": "Nicobar",
+    "Crimes": 4
+  },
+  {
+    "District": "Chandigarh",
+    "Crimes": 463
+  },
+  {
+    "District": "D&N Haveli",
+    "Crimes": 25
+  },
+  {
+    "District": "Daman",
+    "Crimes": 22
+  },
+  {
+    "District": "Diu",
+    "Crimes": 6
+  },
+  {
+    "District": "Central",
+    "Crimes": 715
+  },
+  {
+    "District": "Crime Branch",
+    "Crimes": 3
+  },
+  {
+    "District": "East",
+    "Crimes": 1926
+  },
+  {
+    "District": "EOW",
+    "Crimes": 6
+  },
+  {
+    "District": "IGI Airport",
+    "Crimes": 20
+  },
+  {
+    "District": "Metro",
+    "Crimes": 24
+  },
+  {
+    "District": "New Delhi",
+    "Crimes": 114
+  },
+  {
+    "District": "North",
+    "Crimes": 517
+  },
+  {
+    "District": "North-East",
+    "Crimes": 1796
+  },
+  {
+    "District": "North-West",
+    "Crimes": 1329
+  },
+  {
+    "District": "Outer",
+    "Crimes": 2284
+  },
+  {
+    "District": "RAILWAY",
+    "Crimes": 41
+  },
+  {
+    "District": "South",
+    "Crimes": 2712
+  },
+  {
+    "District": "South-East",
+    "Crimes": 1741
+  },
+  {
+    "District": "South-West",
+    "Crimes": 1766
+  },
+  {
+    "District": "Spl Cell",
+    "Crimes": 1
+  },
+  {
+    "District": "SPUWAC",
+    "Crimes": 157
+  },
+  {
+    "District": "Vigilance",
+    "Crimes": 0
+  },
+  {
+    "District": "West",
+    "Crimes": 1952
+  },
+  {
+    "District": "Lakshadweep",
+    "Crimes": 9
+  },
+  {
+    "District": "Karaikal",
+    "Crimes": 12
+  },
+  {
+    "District": "Puducherry",
+    "Crimes": 68
+  }
+]
