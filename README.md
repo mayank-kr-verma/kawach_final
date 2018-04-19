@@ -19,9 +19,17 @@ This app was developed to provide Safety and Security to app users and their lov
 ![Screenshot](images/1.png)
 ![Screenshot](images/2.png)
 
+**Features**
+
+* Sos button's background changes color according to risk level of the area you are in.
+* User's emergency contacts will get distress message on click of a button.
+* They can also track the users real time location at will.
+* A list of nearby police stations, hospitals, and fire stations can be called up instantly when needed.
+* App can also be used to report any crime user witnesses and the report can be passed to concerned authorities.
+
 **Technologies used:**
 
 * The app uses GPS for real time location. 
-* It uses firebase to handle online database created.
+* It uses firebase to handle online database created. 
 
 
